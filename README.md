@@ -30,41 +30,7 @@ This report presents a phishing and vulnerability assessment of the domain `toda
 ---
 Includes final submission for Phase 3 – Phishing Analysis of the domain https://todayspecialoffers.io.
 
-## 📁 File Structure:
-Phishing_Updated/  ├
-└── Phishing_Updated/   ├
-    ├── VAPT Phase 3 – Phishing Analysis Report Indrajeet    ├
-    ├── Output_Logs/   ├
-    │   ├── curl_headers_todayspecialoffers.txt   ├
-    │   ├── dig_todayspecialoffers.txt   ├
-    │   ├── nikto_todayspecialoffers.txt   ├
-    │   ├── nmap_todayspecialoffers.txt
-    │   ├── nslookup_todayspecialoffers.txt
-    │   ├── sslscan_todayspecialoffers.txt
-    │   ├── sslyze_todayspecialoffers.txt
-    │   ├── whatweb_todayspecialoffers.txt
-    │   └── whois_todayspecialoffers.txt
-    ├── Screenshot/
-    │   ├── 90% Off.png
-    │   ├── Fake Product Display .png
-    │   ├── PhishTank_todayspecialoffers.png
-    │   ├── VirusTotal_todayspecialoffers.png
-    │   ├── crtsh_todayspecialoffers.png
-    │   ├── headers_todayspecialoffers.png
-    │   ├── html_inspect_admin_panel_url.png
-    │   ├── html_inspect_logo.png
-    │   ├── html_inspect_title.png
-    │   ├── md5.png
-    │   ├── nikto_todayspecialoffers.png
-    │   ├── nmap_todayspecialoffers.png
-    │   ├── sslscan_todayspecialoffers.png
-    │   ├── urlscan_todayspecialoffers.png
-    │   ├── virus total .png
-    │   ├── whatweb_todayspecialoffers.png
-    │   └── whois_todayspecialoffers.png
-    └── reports/
 
-📄 Includes technical findings, phishing indicators, spoofing behavior, OWASP mapping, and screenshots.
 
 ## ✅ Key Findings
 
