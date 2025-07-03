@@ -16,22 +16,22 @@ Using OSINT tools, vulnerability scanners, and manual inspection techniques, the
 
 ---
 
-## 📁 Repository Structure
 VAPT_Phishing_Report_Indrajeet/
-├── Final_Report.pdf # Full technical report with screenshots
-├── README.md # This documentation file
-├── Output_Logs/ # Raw output logs of scanning tools
-│ ├── whois_todayspecialoffers.txt
-│ ├── dig_todayspecialoffers.txt
-│ ├── nslookup_todayspecialoffers.txt
-│ ├── nmap_todayspecialoffers.txt
-│ └── nikto_todayspecialoffers.txt
-├── Screenshots/ # Visual evidence from HTML/UI inspection
-│ ├── html_inspect_todayspecialoffers.png
-│ ├── fake_logo.png
-│ ├── fake_discount.png
-│ ├── admin_panel_login.png
-│ └── virustotal_detection.png
+├── Final_Report.pdf                # Full technical report with screenshots
+├── README.md                       # This documentation file
+├── Output_Logs/                    # Raw output logs of scanning tools
+│   ├── whois_todayspecialoffers.txt
+│   ├── dig_todayspecialoffers.txt
+│   ├── nslookup_todayspecialoffers.txt
+│   ├── nmap_todayspecialoffers.txt
+│   └── nikto_todayspecialoffers.txt
+├── Screenshots/                    # Visual evidence from HTML/UI inspection
+│   ├── html_inspect_todayspecialoffers.png
+│   ├── fake_logo.png
+│   ├── fake_discount.png
+│   ├── admin_panel_login.png
+│   └── virustotal_detection.png
+
 
 
 ---
